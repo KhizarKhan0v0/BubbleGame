@@ -104,3 +104,6 @@ html {
     background-color: rgb(10, 71, 102);
     color: rgb(204, 58, 58);
 }
+.bubble:active{
+    background-color: chartreuse;
+}
